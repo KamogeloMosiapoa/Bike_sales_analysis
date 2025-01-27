@@ -32,7 +32,9 @@ The dataset structure as seen below consists of 18 columns, with a total row cou
 
 ### Overview of findings
 
-The company drastically peaked mid 2013, however it experienced a slight 2.8% decline in sales early 2014. Key perfomance indicators have shown overall profit in 2022,alongside year-over-year percentage change of +101%, revenue and sales trend, with bikes remaining the product that contributes most to the revenue. The abrupt increase in revenue can be attributed to the introduction of new items to the stores inventory(accessories and clothing, the following sections will explore additional contributing factors and highlight highlight key opportunity areas for improvment.
+In mid-2013, the company experienced a significant peak in sales. However, there was a slight decline of 2.8% in early 2014. Key performance indicators for 2013 show an overall profit, with a year-over-year percentage change of +101%. The revenue and sales trend indicate that bikes remain the top revenue contributor.
+
+The abrupt increase in revenue can be attributed to the introduction of new items to the store's inventory, such as accessories and clothing. The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
 
 Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/app/profile/kamogelo.mosiapoa/viz/bikesales_17368584469180/Dashboard1?publish=yes)
 
