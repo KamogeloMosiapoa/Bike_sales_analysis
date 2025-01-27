@@ -42,8 +42,11 @@ Below is the overview page from the Tableau dashboard. The entire interactive da
 
 
 - Sales Peak: The company's sales peaked in June 2013, resulting in an annual revenue of R 15,240,037.00.
+  
 - Geographical Contribution: The majority of sales contributing to revenue are from the United States, with adult females being the primary customer segment.France has the least sales in that same year.
+  
 -Product Contribution: While water bottles and patch kids are popular, road bikes and mountain bikes generated R 8,569,193 in revenue in 2013, accounting for 56.2% of the company's total revenue, making them the top revenue contributors.
+
 - Revenue Decline in Australia: The company experienced a -25.9% year-over-year decline in revenue in Australia, dropping from R 159,339 in June to R 15,758 in July. A similar decline of -32.8% was observed in 2016 during the same months.
 
 ## Recommendations
