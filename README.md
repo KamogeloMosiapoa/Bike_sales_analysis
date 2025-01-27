@@ -4,10 +4,10 @@
 ## Project Background and Overview 
 Bike Bliss is a bike retail company established in 2011, sells popular bikes and bike accessories.
 
-The company has significant amounts of of data on its sales from 2011 to 2016, product offerings and unit prices.This project thoroughly analysis and synthesizes the data to gain insights into the business performance of a bike retail. The primary goal is to calculate key performance indicators (KPIs) and create visualizations to help identify trends in customer preferences, YoY revenue , and best-selling bike accessories across different demographics. The dataset consists of approximately 113036 records and visualized using PowerBI.
+The company has significant amounts of of data on its sales from 2011 to 2016, product offerings and unit prices.This project thoroughly analysis and synthesizes the data to gain insights into the business performance of a bike retail. The primary goal is to calculate key performance indicators (KPIs) and create visualizations to help identify trends in customer preferences, YoY revenue , and best-selling bike accessories across different demographics. The dataset consists of approximately 113,036 records and visualized using PowerBI.
 
 ## Data Structure
-The dataset structure as seen below consists of 18 columns, with a total row count of 113036.The columns are as follows:
+The dataset structure as seen below consists of 18 columns, with a total row count of 113,036.The columns are as follows:
 
 - Date: the date of which an item was purchased from the store.
 - Day: the day of which an item was purchased from the store.
